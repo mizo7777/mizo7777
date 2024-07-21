@@ -1,4 +1,4 @@
-Www.whatsapp.com 👋 Hi, I’m @mizo7777
+README.mdWww.whatsapp.com 👋 Hi, I’m @mizo7777
 - 👀 I’m interested in ...viftery whatsapp code
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...code
